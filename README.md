@@ -6,7 +6,7 @@
 
 <h1 align="center"><b>< Hey, Fellas!/> 👾</b></h1>
 <p align="center">
-  <a href="https://github.com/JojoDeveloper01"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=500&size=50&color=11B600&background=000000&center=true&vCenter=true&random=false&width=1000&height=150&lines=Joseth+Balcazar;Lover+Of+New +Learning;Website+Developer;Self-taught"></a>
+  <a href="https://github.com/JojoDeveloper01"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&weight=500&size=50&color=11B650&background=0A0C15&center=true&vCenter=true&random=false&width=1000&height=150&lines=Joseth+Balcazar;Lover+Of+New +Learning;Website+Developer;Self-taught"></a>
 </p>
 
 <br>
