@@ -21,8 +21,7 @@
 - 🌱 I’m currently learning Git, nodeJS
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about HTML/CSS, JS
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: <a href='linkedin.com/in/joseth-balcazar-3bb450298'>Linkedin</a>
 - ⚡ Fun fact: ...
 
 <br><br>
