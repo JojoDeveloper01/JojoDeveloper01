@@ -11,7 +11,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
@@ -21,8 +21,7 @@
 - 🌱 I’m currently learning Git, nodeJS
 - 👯 I’m looking to collaborate on Projects
 - 💬 Ask me about HTML/CSS, JS
-- 📫 How to reach me: <a href='linkedin.com/in/joseth-balcazar-3bb450298'>Linkedin</a>
-- ⚡ Fun fact: ...
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/joseth-balcazar-3bb450298/">Linkedin</a>
 
 <br><br>
 
@@ -109,24 +108,16 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/joseth-balcazar-3bb450298/ target="_blank">
+<img src="" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:josethbalcazar11@gmail.com" target="_blank">
+<img src="" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
@@ -141,7 +132,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Joseth Balcazar</b>
 
 </div>
 <br>
