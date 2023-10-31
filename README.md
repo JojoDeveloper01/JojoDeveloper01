@@ -84,15 +84,15 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/JojoDeveloper01/JojoDeveloper01/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Contact..!</b><img src="https://github.com/JojoDeveloper01/JojoDeveloper01/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
 <ul>
-
 <li>
 <a href="https://www.linkedin.com/in/joseth-balcazar-3bb450298/ target="_blank">
-<img src="" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" alt="linkedin" width="30" heigth="30"></>
+<span>Linkedin</span>
 </a>
 </li>
 
@@ -100,7 +100,8 @@
 
 <li>
 <a href="https://www.linkedin.com/in/joseth-balcazar-3bb450298/ target="_blank">
-<i class="fa-brands fa-linkedin-in"></i>
+<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" alt="linkedin" width="30" heigth="30"></>
+<span>Linkedin</span>
 </a>
 </li>
 	
