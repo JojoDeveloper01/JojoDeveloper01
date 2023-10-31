@@ -85,30 +85,24 @@
 <br>
 
 ## <b> Let's Contact..!</b><img src="https://github.com/JojoDeveloper01/JojoDeveloper01/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
 <div align='left'>
-
-<ul>
-<li>
-<a href="https://www.linkedin.com/in/joseth-balcazar-3bb450298/ target="_blank">
+<br>
+<a href="https://www.linkedin.com/in/joseth-balcazar-3bb450298/" target="_blank">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" alt="linkedin" width="30" heigth="30"></>
 <span>Linkedin</span>
 </a>
-</li>
 
 <br>
-
-<li>
+<br>
 <a href="https://www.linkedin.com/in/joseth-balcazar-3bb450298/ target="_blank">
 <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" alt="linkedin" width="30" heigth="30"></>
 <span>Linkedin</span>
 </a>
-</li>
 	
-</ul>
 </div>
 
 <div align='center'>
+<br><br>
 
 ## <b>Joseth Balcazar</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
