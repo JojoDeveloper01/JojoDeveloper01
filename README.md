@@ -79,26 +79,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JojoDeveloper01&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="JojoDeveloper01"/>
 </a>
 </div>
-
-<br>
-<br>
-<br>
-
-## <b> Let's Contact..!</b><img src="https://github.com/JojoDeveloper01/JojoDeveloper01/raw/main/assets/mdImages/handshake.gif" width ="80">
-<div align='left'>
-<br>
-<a href="https://www.linkedin.com/in/joseth-balcazar-3bb450298/" target="_blank">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" alt="linkedin" width="30" heigth="30"></>
-<span>Linkedin</span>
-</a>
-
-<br>
-<br>
-<a href="https://www.linkedin.com/in/joseth-balcazar-3bb450298/ target="_blank">
-<img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/LinkedIN.png" alt="linkedin" width="30" heigth="30"></>
-<span>Linkedin</span>
-</a>
-	
 </div>
 
 <div align='center'>
