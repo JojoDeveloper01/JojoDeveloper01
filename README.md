@@ -69,6 +69,7 @@
 
 <br><br>
 
+![snake gif](https://github.com/JojoDeveloper01/JojoDeveloper01/blob/output/github-contribution-grid-snake.svg)
 
 <br><br>
 
