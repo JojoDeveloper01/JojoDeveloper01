@@ -59,8 +59,10 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/JojoDeveloper01">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoDeveloper01&layout=compact&langs_count=7&theme=react" />
+  <a href="https://github.com/JojoDeveloper01"  align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JojoDeveloper01&layout=compact&langs_count=7&theme=react" />
+   <br><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JojoDeveloper01&&layout=compact&langs_count=7&theme=react"/>
   </a>
 </div>
 </div>
